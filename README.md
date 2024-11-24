@@ -9,8 +9,6 @@
 
 *An advanced analytics platform for understanding VTuber engagement and moderation patterns*
 
-[Introduction](#introduction) • [Features](#features) • [Tools](#tools-and-technologies) • [Goals](#project-goals) • [Setup](#setup)
-
 </div>
 
 ## 🌟 Introduction
