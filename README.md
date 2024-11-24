@@ -121,6 +121,4 @@ For support, please contact our team or open an issue in the repository.
 
 Made with ❤️ for the VTuber Community
 
-[Documentation](docs/) • [Report Bug](issues/) • [Request Feature](issues/)
-
 </div>
