@@ -13,7 +13,7 @@
 
 ## 🌟 Introduction
 
-Welcome to our comprehensive VTuber analytics project! We've developed a sophisticated platform that dives deep into the fascinating world of Virtual YouTubers (VTubers), analyzing viewer engagement patterns across multiple streaming platforms. Using Azure's robust data capabilities and Power BI's visualization prowess, we provide actionable insights into chat interactions, donation patterns, and moderation effectiveness.
+Welcome to my comprehensive VTuber analytics project! I've developed a sophisticated platform that dives deep into the fascinating world of Virtual YouTubers (VTubers), analyzing viewer engagement patterns across multiple streaming platforms. Using Azure's robust data capabilities and Power BI's visualization prowess, I provide actionable insights into chat interactions, donation patterns, and moderation effectiveness.
 
 ## 🎯 Project Goals
 
@@ -101,7 +101,7 @@ Welcome to our comprehensive VTuber analytics project! We've developed a sophist
 
 ## 🤝 Contributing
 
-We welcome contributions! Here's how you can help:
+I welcome contributions! Here's how you can help:
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
@@ -111,7 +111,7 @@ We welcome contributions! Here's how you can help:
 
 ## 📫 Support
 
-For support, please contact our team or open an issue in the repository.
+For support, please contact or open an issue in the repository.
 
 ---
 
